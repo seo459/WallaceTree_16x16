@@ -1,3 +1,5 @@
+I couldn't upload the design file because it couldn't be backed up on the server
+
 - 8x8 Wallace Tree 
 
 Detailed the compressor architecture
